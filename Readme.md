@@ -29,6 +29,6 @@ A simple business card app built for Android using Kotlin and Jetpack Compose. I
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Article On Medium
 
-- Inspired by the [Google Codelab on Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
+- Read on [Medium](https://medium.com/@avanisoam/dynamic-businesscard-app-using-data-store-preferences-342511c0a514)
